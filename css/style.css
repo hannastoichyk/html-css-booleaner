@@ -1,5 +1,10 @@
+* {
+  margin: 1;
+  margin-top: 0em;
+}
 .bar {
   background-color: rgb(104, 183, 210);
+  
 }
 .logo {
   margin-right: 10em;
@@ -11,13 +16,11 @@
   margin-left: 2em;
 }
 .sopraim {
-  margin-left: 1em;
+  margin-left: 0%;
+  padding: 0%;
 }
 .foto {
-  margin-left: 2%;
-}
-.p {
-  margin-left: 2%;
+  margin-left: 0%;
 }
 .primacolonna {
   background-color: rgb(141, 164, 193);
