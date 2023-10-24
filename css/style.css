@@ -1,6 +1,4 @@
 * {
-  margin: 1;
-  margin-top: 0em;
 }
 .bar {
   background-color: rgb(104, 183, 210);
@@ -13,11 +11,8 @@
   width: 20%;
 }
 .titolo {
-  margin-left: 2em;
-}
-.sopraim {
-  margin-left: 0%;
-  padding: 0%;
+  margin-top: 1.5em;
+  margin-bottom: 0em;
 }
 .foto {
   margin-left: 0%;
@@ -42,4 +37,17 @@
 }
 .last {
   background-color: rgb(33, 55, 119);
+}
+table {
+  width: 100%;
+  table-layout: fixed;
+  margin-bottom: 2em;
+}
+table td {
+  width: 100%;
+}
+p {
+  margin: 0.5em;
+  margin-top: 0.5em;
+  margin-bottom: 0em;
 }
