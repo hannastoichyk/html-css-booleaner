@@ -1,0 +1,42 @@
+.bar {
+  background-color: rgb(104, 183, 210);
+}
+.logo {
+  margin-right: 10em;
+  margin-left: 2em;
+  border: 10em;
+  width: 20%;
+}
+.titolo {
+  margin-left: 2em;
+}
+.sopraim {
+  margin-left: 1em;
+}
+.foto {
+  margin-left: 2%;
+}
+.p {
+  margin-left: 2%;
+}
+.primacolonna {
+  background-color: rgb(141, 164, 193);
+  color: beige;
+}
+.secondacolonna {
+  background-color: rgb(176, 185, 197);
+}
+.terzacolonna {
+  background-color: rgb(236, 236, 236);
+}
+.quartacolonna {
+  background-color: rgb(124, 152, 188);
+}
+
+.ultimariga {
+  text-align: center;
+  color: antiquewhite;
+}
+.last {
+  background-color: rgb(33, 55, 119);
+}
